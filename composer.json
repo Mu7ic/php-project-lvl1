@@ -12,5 +12,8 @@
             "email": "m928344084@gmail.com"
         }
     ],
+    "bin": [
+        "bin/brain-games"
+    ],
     "require": {}
 }
