@@ -1,0 +1,16 @@
+{
+    "name": "hexlet/code",
+    "description": "first command",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Code\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muzich Rasulov",
+            "email": "m928344084@gmail.com"
+        }
+    ],
+    "require": {}
+}
