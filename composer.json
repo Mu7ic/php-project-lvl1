@@ -12,6 +12,7 @@
             "email": "m928344084@gmail.com"
         }
     ],
+    "license": "MIT",
     "bin": [
         "bin/brain-games"
     ],
