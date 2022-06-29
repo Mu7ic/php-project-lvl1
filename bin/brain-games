@@ -1,10 +1,10 @@
 #!/usr/bin/env php
 <?php
 require_once 'vendor/autoload.php';
+require_once 'src/cli.php';
 
 use function cli\line;
 use function cli\prompt;
+use function Muzich\Code\name;
 
-line('Welcome to the Brain Games');
-$name = prompt('May I have your name?');
-line("Hello, %s!", $name);
+name();

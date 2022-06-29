@@ -3,7 +3,7 @@
     "description": "first command",
     "autoload": {
         "psr-4": {
-            "Hexlet\\Code\\": "src/"
+            "Muzich\\Code\\": "src/"
         }
     },
     "authors": [
