@@ -7,5 +7,5 @@ use function Muzich\Code\name;
 
 $name = name();
 
-$games = new \Muzich\Code\Games();
-$games->even($name);
+$games = new \Muzich\Code\Games($name);
+$games->even();

@@ -1,27 +1,28 @@
 {
-    "name": "hexlet/code",
-    "description": "first command",
-    "autoload": {
-        "psr-4": {
-            "Muzich\\Code\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "Muzich Rasulov",
-            "email": "m928344084@gmail.com"
-        }
-    ],
-    "license": "MIT",
-    "bin": [
-        "bin/brain-calc",
-        "bin/brain-games",
-        "bin/brain-even"
-    ],
-    "require": {
-        "wp-cli/php-cli-tools": "^0.11.13"
-    },
-    "require-dev": {
-        "squizlabs/php_codesniffer": "3.*"
+  "name": "hexlet/code",
+  "description": "first command",
+  "autoload": {
+    "psr-4": {
+      "Muzich\\Code\\": "src/"
     }
+  },
+  "authors": [
+    {
+      "name": "Muzich Rasulov",
+      "email": "m928344084@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "bin": [
+    "bin/brain-gcd",
+    "bin/brain-calc",
+    "bin/brain-games",
+    "bin/brain-even"
+  ],
+  "require": {
+    "wp-cli/php-cli-tools": "^0.11.13"
+  },
+  "require-dev": {
+    "squizlabs/php_codesniffer": "3.*"
+  }
 }

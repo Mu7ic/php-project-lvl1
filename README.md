@@ -4,3 +4,5 @@
 <a href="https://asciinema.org/a/Y1MedlJfUQyjj5eDAvzG54Yxz" target="_blank"><img src="https://asciinema.org/a/Y1MedlJfUQyjj5eDAvzG54Yxz.svg" /></a>
 ### lesson brain-calc
 <a href="https://asciinema.org/a/tGbxkJrHxZmgKc8lgkfd7UwWi" target="_blank"><img src="https://asciinema.org/a/tGbxkJrHxZmgKc8lgkfd7UwWi.svg" /></a>
+### lesson brain-gcd
+<a href="https://asciinema.org/a/T1g49QZ52EPw5brRdnyPdpYMT" target="_blank"><img src="https://asciinema.org/a/T1g49QZ52EPw5brRdnyPdpYMT.svg" /></a>

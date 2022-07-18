@@ -8,4 +8,4 @@ use function Muzich\Code\name;
 $name = name();
 
 $games = new \Muzich\Code\Games($name);
-$games->calc();
+$games->gcd();
