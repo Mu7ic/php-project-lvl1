@@ -14,6 +14,7 @@
     ],
     "license": "MIT",
     "bin": [
+        "bin/brain-calc",
         "bin/brain-games",
         "bin/brain-even"
     ],
